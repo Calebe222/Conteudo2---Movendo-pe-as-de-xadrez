@@ -1,2 +1,3 @@
-# Conteudo2---Movendo-pe-as-de-xadrez
-repositório de estudos 
+# Conteudo2-
+movendo peças de xadrez 
+repositório de estudos - linguagem C
