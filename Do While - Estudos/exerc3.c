@@ -7,7 +7,7 @@ int main () {
 
     do {
         printf("Menu:\n");
-        printf("1. Opção\n");
+        printf("1. Opção 1\n");
         printf("2. Opção 2\n");
         printf("3. Sair\n");
         printf("Escolha uma opção: ");
