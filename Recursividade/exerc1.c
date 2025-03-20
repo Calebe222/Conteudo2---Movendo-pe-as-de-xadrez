@@ -9,5 +9,10 @@ void recursivo(int numero) {
 }
 
 int main () {
-    
+
+    int quantidade = 10;
+
+
+    printf("Contagem Regressiva: \n");
+    recursivo(quantidade);
 }
