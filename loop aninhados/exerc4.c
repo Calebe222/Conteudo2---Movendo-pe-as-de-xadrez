@@ -1,17 +1,15 @@
 #include <stdio.h>
 
-
 int main () {
     int i = 1;
-    do {
+    while (i <= 10) {
         int j = 1;
-        do {
+        while (j <= 10) {
             printf("%d\t", i * j);
             j++;
-        } while (j <= 10);
+        }
         printf("\n");
         i++;
-    } while (i <= 20);
-
-    return 0;
+    }
+   
 }
